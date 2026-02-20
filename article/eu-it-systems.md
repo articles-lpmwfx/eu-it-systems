@@ -8,87 +8,64 @@ lang: en
 
 ## Everyday Life: Windows, Android, and Apple as Social Standards
 
-In the modern EU, the choice of IT systems is rarely a real choice. Microsoft Windows and Android have become everyone's OS – installed in schools, at universities, and at workplaces. iOS, iPadOS, and macOS have, in many environments, become the "smart" and socially respected choices – not least among students, creatives, and decision-makers.
+Few real alternatives exist when Europeans select IT systems today. Classrooms, university labs, and corporate workstations overwhelmingly favor Microsoft Windows and Android. Meanwhile, iOS, iPadOS, and macOS have emerged as the polished, socially prestigious options—attracting students, creatives, and decision-makers alike.
 
-It is stable. It is user-friendly. It works.
-And precisely because of this, very few people ask questions.
+Consider how intuitive these interfaces feel. They function seamlessly. This very smoothness explains why their dominance faces no serious challenge.
 
-But behind the comfort lies a structural dilemma, which is not about doomsday or fear – but about sovereignty.
+Yet beneath this convenience lurks a structural issue—one touching sovereignty itself, not merely fear or alarmism.
 
 ## The Logic of Comfort
 
-Most Europeans have grown up with these systems.
-From primary school to university, one learns Windows and Office. The mobile phone is Android or iPhone. The workplace systems are integrated with American cloud platforms.
+Most Europeans have never experienced anything different. Windows and Office shape learning from early education onward. Smartphones run either Android or iOS. Work tools integrate effortlessly with American cloud platforms.
 
-This means that the alternative is not just "another operating system."
-It is perceived as a break with the familiar.
-A loss of competence.
-A social risk.
+Switching means more than just changing software. It feels like abandoning the familiar. Suddenly, years of skills appear obsolete. A social risk emerges.
 
-Technology is not just a tool – it is culture.
+Here, technology transcends its role as a tool. It profoundly shapes culture.
 
 ## Sovereignty Without Drama
 
-The question is not whether Microsoft, Google, or Apple are "evil."
-The question is structural.
+Concerns don’t center on whether Microsoft, Google, or Apple harbor malicious intent. This particular issue runs deeper—woven into the system’s very fabric.
 
-These systems are developed for an American market, under American legislation, with American commercial interests as the starting point.
+These platforms originate from the American market. They operate under American laws. Their design prioritizes American commercial interests first.
 
-The EU has GDPR as a strong legal basis.
-But when the infrastructure – operating systems, app ecosystems, cloud integrations – is designed outside of Europe, an asymmetry arises.
+While GDPR provides a strong legal framework, an imbalance persists. When operating systems, app ecosystems, and cloud services all come from outside Europe, power dynamics shift subtly.
 
-This is not necessarily a breach of the rules.
-It is a balance of power.
+No rules are broken. Influence simply changes hands.
 
 ## The Silent Dependence
 
-The dependence does not show itself in everyday life.
-It shows itself in the absence of alternatives.
+Daily life conceals this dependence remarkably well. Only when alternatives vanish does its true weight become apparent.
 
-When the entire education system is built on certain platforms, competencies and expectations are shaped accordingly.
-When companies recruit, knowledge of these systems is expected.
-When public institutions procure, they choose what everyone already can.
+Schools standardizing on certain platforms shape both skills and expectations. Employers assume proficiency in these tools. Public institutions default to what’s already widely used.
 
-This creates a self-reinforcing cycle.
-
-Not because anyone wants it that way.
-But because it is easiest.
+A self-reinforcing cycle emerges—not by design, but through convenience alone.
 
 ## Existential Resistance to New Platforms
 
-The idea of new, European mobile platforms or desktop environments often meets resistance.
-Not because they are technically bad.
-But because they break with habit.
+European mobile platforms and desktop environments often encounter resistance. Technical flaws aren’t the main hurdle. The real challenge? Disrupting established habits.
 
-For many, it feels like an existential threat:
+For many users, switching feels like an existential threat:
 
-* Do I lose my competencies?
-* Do I lose compatibility?
-* Do I lose social affiliation?
+* Will my skills become irrelevant?
+* Will I lose compatibility with colleagues?
+* Will I fall behind professionally?
 
-It is less about technology and more about identity.
+This pushback isn’t about technology. It’s about identity. It’s about perceived survival in a digital world.
 
 ## A Mature Conversation
 
-Europe therefore does not face a simple technological choice.
-It is a cultural and political choice.
+Europe’s challenge extends beyond technology. It’s cultural. It’s political.
 
-The question is not whether Windows, Android, or Apple should be banned.
-The question is whether the EU wants strategic capacity to own and control its fundamental digital layers itself.
+The debate shouldn’t focus on banning Windows, Android, or Apple. A crucial question remains: does the EU want the capacity to develop and control its own foundational digital layers?
 
-Digital sovereignty does not mean isolation.
-It means freedom of choice.
+Digital sovereignty doesn’t require isolation. It demands real, viable choices.
 
-And freedom of choice requires real alternatives.
+And without alternatives, choices simply can’t exist.
 
 ## Conclusion
 
-The modern EU is comfortably digital.
-But comfort and control are not the same.
+Remarkable digital comfort defines the modern EU. But comfort and control are not the same.
 
-If Europe wants long-term technological freedom, it requires investment in its own ecosystems – even if they seem less polished at first.
+If Europe seeks long-term technological independence, it must invest in its own ecosystems—even when they begin imperfectly.
 
-Because technology is not just user experience.
-It is infrastructure.
-
-And infrastructure is power.
+Technology forms the foundation of critical infrastructure. Infrastructure determines who holds power.
