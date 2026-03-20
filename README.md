@@ -22,3 +22,11 @@ lpmwfx, Denmark, EU
 ## Feedback
 
 [Issues on Codeberg](https://codeberg.org/Articles-lpmwfx/eu-it-systems/issues)
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=11" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
